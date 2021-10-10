@@ -1,0 +1,5 @@
+- id: reviewdog_yamllint
+  name: Yaml lint + reviewdog
+  description: Description
+  entry: /entrypoint.sh
+  language: docker
